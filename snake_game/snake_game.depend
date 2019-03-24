@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1552316029 source:c:\users\lee\desktop\c_ds_review\snake_game\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"snakequeue.h"
+
+1552313331 c:\users\lee\desktop\c_ds_review\snake_game\snakequeue.h
+
+1552313305 source:c:\users\lee\desktop\c_ds_review\snake_game\snakequeue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"snakequeue.h"
+
